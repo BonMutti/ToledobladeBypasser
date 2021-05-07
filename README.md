@@ -1,2 +1,2 @@
 # ToledobladeBypasser
-Removes the paywall for Toledoblade articles
+Removes the paywall for Toledoblade news articles.

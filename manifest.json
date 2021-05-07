@@ -1,0 +1,17 @@
+{
+"manifest_version": 2,
+"name": "Toledo News Paywall Disabler",
+"version": "1.0",
+
+
+    "content_scripts": [
+        {
+        "matches": [
+            "*://*.toledoblade.com/*"
+              ],
+        "js":[
+            "jquery-3.6.0.min.js", "scripts/paywallDisabler.js"
+        ]
+        }
+    ]
+}
